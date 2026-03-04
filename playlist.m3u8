@@ -1,20 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="002858-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/s0wy151750320841.jpg" group-title="Events",Manchester City vs Nottingham Forest - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/8esim7bratiq3cadaxes34tesibropop
-#EXTINF:-1 tvg-id="7165dc-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/skld5p1750320831.jpg" group-title="Events",Brighton & Hove Albion vs Arsenal - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/c5phuthukothlwrudro8rosas3b64ini
-#EXTINF:-1 tvg-id="fc72d6-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/wep0lr1750320836.jpg" group-title="Events",Fulham vs West Ham United - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d
-#EXTINF:-1 tvg-id="5955c9-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/n52qlk1750320825.jpg" group-title="Events",Aston Villa vs Chelsea - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/sodrito5weqefradroqa900esw68i9lg
 #EXTINF:-1 tvg-id="fb9ddd-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/y8lzrf1758785972.jpg" group-title="Events",Aberdeen vs Celtic - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
