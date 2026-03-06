@@ -59,6 +59,10 @@ https://hmembeds.one/embed/302f0bca1ae8263e7a95850c52334362
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/1ccdf958275b2bbbd3302eac309ff027
+#EXTINF:-1 tvg-id="4e1c49-PiastriCam" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Piastri Cam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/6a9e72dbee555c5c371157c2f3b09751
 #EXTINF:-1 tvg-id="4e1c49-AlonsoCam" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Alonso Cam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
