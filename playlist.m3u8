@@ -3,10 +3,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/b530d42070448e689330f44ffc32bf7e
-#EXTINF:-1 tvg-id="d96bc7-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/lf55i21763382034.jpg" group-title="Events",ARCA Menards Series: General Tire 150 at Phoenix Raceway - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/b1ee43b746e3478a9fe164a82e6eb94d
 #EXTINF:-1 tvg-id="854396-MagicFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/dal_vs_orl_game_recap_030526_thumbnail-full.jpeg" group-title="Events",Mavericks @ Magic - Magic Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
@@ -31,10 +27,6 @@ https://hmembeds.one/embed/b246537a849816b18a104756daf879bc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/44c547758f812e4520ad96ea121a578a
-#EXTINF:-1 tvg-id="4e1c49-LiveStream" tvg-logo="https://iili.io/qn4njLl.png" group-title="Events",Formula 1 @ Melbourne GP - Free Practice - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/bd584867d975d4c0d70a7d7a452b00ae
 #EXTINF:-1 tvg-id="a8a836-SunsFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/chi_vs_phx_game_recap_030526_thumbnail.png" group-title="Events",Bulls @ Suns - Suns Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
@@ -47,6 +39,38 @@ https://hmembeds.one/embed/279dda558c09fde00adf2c2f904cefc6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/f560bb2469c05943fc99d8b908585153
+#EXTINF:-1 tvg-id="4e1c49-AppleTV" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Apple TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/bd584867d975d4c0d70a7d7a452b00ae
+#EXTINF:-1 tvg-id="4e1c49-SkySportsF1" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/888520f36cd94c5da4c71fddc1a5fc9b
+#EXTINF:-1 tvg-id="4e1c49-SkySport3NZ" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Sky Sport 3 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b
+#EXTINF:-1 tvg-id="4e1c49-LeclercCam" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Leclerc Cam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/302f0bca1ae8263e7a95850c52334362
+#EXTINF:-1 tvg-id="4e1c49-HamiltonCam" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Hamilton Cam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/1ccdf958275b2bbbd3302eac309ff027
+#EXTINF:-1 tvg-id="4e1c49-AlonsoCam" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Alonso Cam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/1c712eff2bdae845191554b1e71926c9
+#EXTINF:-1 tvg-id="4e1c49-NorrisCam" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Norris Cam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/f238c618edfeeb97ece980dc8534e5a9
+#EXTINF:-1 tvg-id="4e1c49-VerstappenCam" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Verstappen Cam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/6a3bd5eb1d3f22535eb331d87a04db8e
 #EXTINF:-1 tvg-id="70f3d7-LiveStream" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/rizintv2/assets/557c94fa-d787-4905-8ba2-2907b5611391.png" group-title="Events",RIZIN.52: Kyoma Akimoto vs. Patchy Mix - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
