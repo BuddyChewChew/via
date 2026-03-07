@@ -1,40 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="6cdfa0-LiveStream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/698b7b2867f53.png" group-title="Events",Lucas Oil Late Model Dirt Series at Golden Isles Speedway - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/446ac68eaef4291c4e57436190c11351
-#EXTINF:-1 tvg-id="af07c4-LiveStream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/63f3c0d3ded8f.png" group-title="Events",Silver Cup at Silver Dollar Speedway - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/c41e5ee6ececea78e2ce0218764e640d
-#EXTINF:-1 tvg-id="fae91c-NuggetsFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/nyk_vs_den_game_recap_030626_thumbnail.png" group-title="Events",Knicks @ Nuggets - Nuggets Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/8bc9c87868ec9e369bb28c7fa7c3e234
-#EXTINF:-1 tvg-id="f7ba59-SunsFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/nop_vs_phx_game_recap_030626_thumbnail.png" group-title="Events",Pelicans @ Suns - Suns Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/840ccfb47d8f2fe863e3a4a3d21516c0
-#EXTINF:-1 tvg-id="2fdf93-SpursFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/lac_vs_sas_game_recap_030626_thumbnail.png" group-title="Events",Clippers @ Spurs - Spurs Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/d3753b0d27e492cca5787d9b6069e1f1
-#EXTINF:-1 tvg-id="155745-LakersFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/ind_vs_lal_game_recap_030626_thumbnail.png" group-title="Events",Pacers @ Lakers - Lakers Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/9d927f74a9d335009e2f2ea778729085
-#EXTINF:-1 tvg-id="5fb0d5-AppleTV" tvg-logo="https://i.imgur.com/5aopeM6.jpeg" group-title="Events",Formula One: Melbourne GP - Qualifying - Apple TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/db477c4b7fd38af9af5ee6c01bbfd416
-#EXTINF:-1 tvg-id="5fb0d5-SkySportsF1" tvg-logo="https://i.imgur.com/5aopeM6.jpeg" group-title="Events",Formula One: Melbourne GP - Qualifying - Sky Sports F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/888520f36cd94c5da4c71fddc1a5fc9b
-#EXTINF:-1 tvg-id="5fb0d5-SkySport3NZ" tvg-logo="https://i.imgur.com/5aopeM6.jpeg" group-title="Events",Formula One: Melbourne GP - Qualifying - Sky Sport 3 NZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b
 #EXTINF:-1 tvg-id="70f3d7-LiveStream" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/rizintv2/assets/557c94fa-d787-4905-8ba2-2907b5611391.png" group-title="Events",RIZIN.52: Kyoma Akimoto vs. Patchy Mix - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
