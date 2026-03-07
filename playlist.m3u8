@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="70f3d7-LiveStream" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/rizintv2/assets/557c94fa-d787-4905-8ba2-2907b5611391.png" group-title="Events",RIZIN.52: Kyoma Akimoto vs. Patchy Mix - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/65302a14b4b88af7877bba75584c967b
 #EXTINF:-1 tvg-id="1a7497-LiveStream" tvg-logo="https://i.imgur.com/sWhCe4t.png" group-title="Events",Fame MMA 30: Icons - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
@@ -11,6 +7,10 @@ https://hmembeds.one/embed/ae9c5de874d133c843df5b6d5ecbf27c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/ea93d5bf67b80391b2e599d64caa579e
+#EXTINF:-1 tvg-id="rizin-52-REPLAY" tvg-logo="https://i.imgur.com/SA2fRb8.png" group-title="Replays",RIZIN.52: Kyoma Akimoto vs. Patchy Mix - REPLAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://player.vimeo.com/video/1160402452?h=60ffffecd9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479
 #EXTINF:-1 tvg-id="247-bluey-1" tvg-logo="https://files.catbox.moe/uat9ne.jpg" group-title="24/7",24/7: Bluey - 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
