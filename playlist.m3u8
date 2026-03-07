@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="b765af-LiveStream" tvg-logo="https://images.skyone.co.nz/mac/479214/DAM/0156C0D6-BBAF-43BD-A1CC22B68916E3CB.jpg" group-title="Events",Supercars Championship & Melbourne: QF Races 6 and 7 - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b
 #EXTINF:-1 tvg-id="6cdfa0-LiveStream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/698b7b2867f53.png" group-title="Events",Lucas Oil Late Model Dirt Series at Golden Isles Speedway - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
